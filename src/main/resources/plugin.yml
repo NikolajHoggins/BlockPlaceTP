@@ -1,0 +1,5 @@
+name: BlockPlaceTP
+version: ${project.version}
+main: dk.hoggins.blockplacetp.BlockPlaceTP
+api-version: 1.13
+authors: [Hoggins]

@@ -1,0 +1,5 @@
+name: BlockPlaceTP
+version: 1.0-SNAPSHOT
+main: dk.hoggins.blockplacetp.BlockPlaceTP
+api-version: 1.13
+authors: [Hoggins]
